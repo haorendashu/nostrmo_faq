@@ -28,7 +28,7 @@ APPStore comming soon
 
 #### Windows
 
-[Direct Download]()
+[Direct Download](https://nostrmo.com/releases/1_4_0/nostrmo_1.4.0.zip)
 
 ### Login or Sign up
 
