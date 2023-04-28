@@ -24,7 +24,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 #### MacOS
 
-APPStore comming soon
+[APPStore](https://apps.apple.com/us/app/id6447441761?l=en-us&platform=mac)
 
 [TestFlight](https://testflight.apple.com/join/icO07ElD)
 
