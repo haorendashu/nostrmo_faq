@@ -14,7 +14,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 [PlayStore](https://play.google.com/store/apps/details?id=com.github.haorendashu.nostrmo)
 
-[Direct Download](https://nostrmo.com/releases/1_4_3/app-release.apk)
+[Direct Download](https://nostrmo.com/releases/1_6_0/app-release.apk)
 
 #### IOS
 
@@ -30,7 +30,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 #### Windows
 
-[Direct Download](https://nostrmo.com/releases/1_4_3/nostrmo_1.4.3.zip)
+[Direct Download](https://nostrmo.com/releases/1_6_0/nostrmo_1.6.0.zip)
 
 ### Login or Sign up
 
