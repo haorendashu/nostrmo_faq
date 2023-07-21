@@ -32,6 +32,10 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 [Direct Download](https://nostrmo.com/releases/1_8_0/nostrmo_1.8.0.zip)
 
+#### Web And PWA
+
+[Web And PWA](https://web.nostrmo.com/) (Beta)
+
 ### Login or Sign up
 
 Input your private key or generate a new private key to login.
