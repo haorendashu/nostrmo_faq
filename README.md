@@ -36,6 +36,16 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 [Web And PWA](https://web.nostrmo.com/) (Beta)
 
+#### Linux
+
+[Direct Download](https://nostrmo.com/releases/2_2_0/nostrmo_linux.zip)  (Beta)
+
+Linux depend on ```libsqlite```, you can try to run this script to install before it run: 
+
+```
+sudo apt-get -y install libsqlite3-0 libsqlite3-dev
+```
+
 ### Login or Sign up
 
 Input your private key or generate a new private key to login.
