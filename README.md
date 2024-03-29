@@ -2,9 +2,19 @@
 
 <img align="right" src="./logo512.png" width="100px" />
 
-Nostrmo is a Nostr client. It support [Androd](#Android), [IOS](#IOS), [Windows](#Windows) and [MacOS](#MacOS).
+Nostrmo is a Nostr client. It support all platform, [Androd](#android), [IOS](#ios), [Windows](#windows), [MacOS](#macos), [Web And PWA](#web-and-pwa), [Linux](#linux).
 
 With Nostrmo you can communicate with your friends on the Nostr network.
+
+## Screenshots
+
+[<img src="./docs/screenshots/mobile1.png" width=160>](./docs/screenshots/mobile1.png)
+[<img src="./docs/screenshots/mobile2.png" width=160>](./docs/screenshots/mobile2.png)
+[<img src="./docs/screenshots/mobile3.png" width=160>](./docs/screenshots/mobile3.png)
+[<img src="./docs/screenshots/mobile4.png" width=160>](./docs/screenshots/mobile4.png)<br/>
+[<img src="./docs/screenshots/pc1.jpeg" width=320>](./docs/screenshots/pc1.jpeg)
+[<img src="./docs/screenshots/pc2.jpeg" width=320>](./docs/screenshots/pc2.jpeg)
+[<img src="./docs/screenshots/pc3.jpeg" width=320>](./docs/screenshots/pc3.jpeg)
 
 ## Getting started
 
@@ -22,15 +32,15 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 [TestFlight](https://testflight.apple.com/join/kvGz47De)
 
+#### Windows
+
+[Direct Download](https://nostrmo.com/releases/2_2_0/nostrmo_2.2.0.zip)
+
 #### MacOS
 
 [APPStore](https://apps.apple.com/us/app/id6447441761?l=en-us&platform=mac)
 
 [TestFlight](https://testflight.apple.com/join/icO07ElD)
-
-#### Windows
-
-[Direct Download](https://nostrmo.com/releases/2_2_0/nostrmo_2.2.0.zip)
 
 #### Web And PWA
 
@@ -63,6 +73,42 @@ It is very important to backup your private key.The key is a random string that 
 ### Notes aren't loading?
 
 The relays may be overloaded, you can try to adding the recommended relays in your Relay Settings. You can check out [nostr.watch](nostr.watch) to add more relays
+
+### Overview
+
+#### Mobile UI Overview
+
+#### Pc UI or Pad UI Overview
+
+#### Relay Overview
+
+### Features
+
+#### Text Note
+
+#### Text Note’ Video
+
+#### Text Note’ Images
+
+#### Direct Message and Private Direct Message
+
+#### Long-form Content
+
+#### Custom Emoji
+
+#### Polls
+
+#### Zap Goals
+
+#### Moderated Communities
+
+#### Lightning Zaps
+
+#### Badges
+
+#### File Metadata (NIP-94)
+
+#### Shared File (NIP-95)
 
 ## Further support
 
