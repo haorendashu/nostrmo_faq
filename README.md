@@ -24,7 +24,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 [PlayStore](https://play.google.com/store/apps/details?id=com.github.haorendashu.nostrmo)
 
-[Direct Download](https://nostrmo.com/releases/2_2_0/app-release.apk)
+[Direct Download](https://nostrmo.com/releases/2_3_0/app-release.apk)
 
 #### IOS
 
@@ -34,7 +34,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 #### Windows
 
-[Direct Download](https://nostrmo.com/releases/2_2_0/nostrmo_2.2.0.zip)
+[Direct Download](https://nostrmo.com/releases/2_3_0/nostrmo_2.3.0.zip)
 
 #### MacOS
 
@@ -48,7 +48,7 @@ With Nostrmo you can communicate with your friends on the Nostr network.
 
 #### Linux
 
-[Direct Download](https://nostrmo.com/releases/2_2_0/nostrmo_linux.zip)  (Beta)
+[Direct Download](https://nostrmo.com/releases/2_3_0/nostrmo_linux.zip)  (Beta)
 
 Linux depend on ```libsqlite```, you can try to run this script to install before it run: 
 
