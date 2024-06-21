@@ -2,7 +2,7 @@
 
 <img align="right" src="./logo512.png" width="100px" />
 
-Nostrmo is a Nostr client. It support all platform, [Androd](#android), [IOS](#ios), [Windows](#windows), [MacOS](#macos), [Web And PWA](#web-and-pwa), [Linux](#linux).
+Nostrmo is a Nostr client. It support all platform, [Android](#android), [IOS](#ios), [Windows](#windows), [MacOS](#macos), [Web And PWA](#web-and-pwa), [Linux](#linux).
 
 With Nostrmo you can communicate with your friends on the Nostr network.
 
